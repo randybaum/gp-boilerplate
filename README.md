@@ -6,6 +6,6 @@ A GeneratePress child theme boilerplate
 * [FacetWP](https://facetwp.com/) - Advanced Filtering for WordPress
 * [WPForms](https://wpforms.com/) - Drag & Drop WordPress Form Builder
 
-### Acknowledgments
+## Acknowledgments
 
 * [GeneratePress](https://generatepress.com/) - The perfect lightweight theme for your next project
