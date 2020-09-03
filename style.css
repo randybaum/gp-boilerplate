@@ -109,8 +109,8 @@ header.page-header {
 	width: 40px;
 	margin-right: 0;
 	display: flex !important;
-  align-items: center;
-  justify-content: center;
+	align-items: center;
+	justify-content: center;
 }
 
 .menu-toggle {
@@ -142,8 +142,8 @@ header.page-header {
 	width: 40px !important;
 	margin-left: auto;
 	display: flex;
-  align-items: center;
-  justify-content: center;
+	align-items: center;
+	justify-content: center;
 }
 
 .slideout-exit svg,
@@ -173,7 +173,7 @@ header.page-header {
 #hero h1 {
 	text-transform: uppercase;
 	font-size: 5rem;
-  font-size: calc(24px + (48 - 24) * ((100vw - 300px) / (1600 - 300)));
+	font-size: calc(24px + (48 - 24) * ((100vw - 300px) / (1600 - 300)));
 }
 
 /*-------------------------------
@@ -212,9 +212,9 @@ header.page-header {
 
 .filter-bar form,
 .post-pagination {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .facetwp-facet {
@@ -339,14 +339,14 @@ header.page-header {
 	/* MOBILE NAVIGATION */
 	
 	.main-navigation .main-nav ul li a {
-    padding-left: 5%;
-    padding-right: 5%;
-    line-height: 60px;
+		padding-left: 5%;
+		padding-right: 5%;
+		line-height: 60px;
 	}
 	
 	.main-navigation .main-nav ul ul li a {
-    padding-left: 5%;
-    padding-right: 5%;
+		padding-left: 5%;
+		padding-right: 5%;
 	}
 	
 	.mobile-header-navigation.toggled,
@@ -361,21 +361,21 @@ header.page-header {
 		padding-bottom: 3vw;
 		box-shadow: none;
 		position: absolute;
-    left: 0;
-    right: 0;
-    z-index: 999;
+		left: 0;
+		right: 0;
+		z-index: 999;
 	}
 	
 	.menu-item-has-children .dropdown-menu-toggle {
-    height: 40px;
-    width: 40px;
-    display: flex !important;
-    align-items: center;
-    justify-content: center;
+		height: 40px;
+		width: 40px;
+		display: flex !important;
+		align-items: center;
+		justify-content: center;
 		margin-top: 10px;
 		margin-bottom: 10px;
 		padding: 0 !important;
-    margin-right: 5vw;
+		margin-right: 5vw;
 		font-size: 22px;
 	}
 	
@@ -439,17 +439,17 @@ header.page-header {
 	/* MOBILE NAVIGATION */
 	
 	.main-navigation .main-nav ul li a {
-    padding-left: 6%;
-    padding-right: 6%;
+		padding-left: 6%;
+		padding-right: 6%;
 	}
 	
 	.main-navigation .main-nav ul ul li a {
-    padding-left: 6%;
-    padding-right: 6%;
+		padding-left: 6%;
+		padding-right: 6%;
 	}
 	
 	.menu-item-has-children .dropdown-menu-toggle {
-    margin-right: 6vw;
+		margin-right: 6vw;
 	}
 	
 }
