@@ -246,17 +246,6 @@ function rb_remove_all_titles() {
 
 
 /**
-* Add .form class to FacetWP dropdown fields
-*/
-add_filter( 'facetwp_facet_html', function( $output, $params ) {
-    if ( 'dropdown' == $params['facet']['type'] ) {
-        $output = str_replace( 'facetwp-dropdown', 'facetwp-dropdown form', $output );
-    }
-    return $output;
-}, 10, 2 );
-
-
-/**
 * Hide count from FacetWP dropdown fields
 */
 add_filter( 'facetwp_facet_dropdown_show_counts', '__return_false' );
